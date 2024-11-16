@@ -1,0 +1,82 @@
+﻿..
+   # Copyright (c) 2023 Graphcore Ltd. All rights reserved.
+   # Copyright (c) 2007-2023 by the Sphinx team. All rights reserved.
+
+unit\_scaling
+=============
+
+.. automodule:: unit_scaling
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      Parameter
+      transformer_residual_scaling_rule
+      visualiser
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+   
+      Conv1d
+      CrossEntropyLoss
+      DepthModuleList
+      DepthSequential
+      Dropout
+      Embedding
+      GELU
+      LayerNorm
+      Linear
+      LinearReadout
+      MHSA
+      MLP
+      RMSNorm
+      SiLU
+      Softmax
+      TransformerDecoder
+      TransformerLayer
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   
+      core
+   
+   
+      functional
+   
+   
+      optim
+   
+   
+      parameter
+   
+
